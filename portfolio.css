@@ -1,0 +1,50 @@
+h1 {
+    font-family: sans-serif;
+    text-decoration: underline;
+    border-style: double;
+    background-color: #29305C;
+    color : #F2F79E;
+}
+
+body { 
+    font-family: monospace;
+    font-size: 22px;
+    background-color: #ADADAD;
+    color : #231123
+
+}
+ 
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 10%;
+}
+h4 {
+    border-style: double;
+    background-color: #29305C;
+    color : #F2F79E;
+}
+li {
+    font-size: 18px;
+}
+.center-text{
+    text-align: center;
+}
+ul {
+    text-align: center;
+}
+li {
+    display: inline-block;
+    color : #29305C
+}
+a {
+    border-style: double;
+    background-color: #29305C;
+    color : #F2F79E;
+    
+}
+
+a:hover {
+    color: purple;
+}
