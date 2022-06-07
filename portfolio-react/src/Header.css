@@ -1,0 +1,12 @@
+header {
+    font-family:'Courier New', Courier, monospace;
+    font-weight: 400;
+    display: flex;
+    color: white;
+}
+
+nav {
+    display: flex;
+    -ms-flex-align: center;
+    padding: 5%;
+}
